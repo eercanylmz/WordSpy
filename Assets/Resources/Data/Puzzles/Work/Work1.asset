@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ec2050d10569f749943763a11f5906e, type: 3}
+  m_Name: Work1
+  m_EditorClassIdentifier: 
+  SearchWords:
+  - Found: 1
+    Word: BOSS
+  - Found: 1
+    Word: HIRE
+  - Found: 1
+    Word: EARN
+  timeInSeconds: 200
+  Columns: 4
+  Rows: 4
+  Board:
+  - Size: 4
+    Row:
+    - C
+    - H
+    - E
+    - B
+  - Size: 4
+    Row:
+    - T
+    - I
+    - A
+    - O
+  - Size: 4
+    Row:
+    - C
+    - R
+    - R
+    - S
+  - Size: 4
+    Row:
+    - P
+    - E
+    - N
+    - S

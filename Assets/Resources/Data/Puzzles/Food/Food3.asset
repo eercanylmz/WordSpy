@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ec2050d10569f749943763a11f5906e, type: 3}
+  m_Name: Food3
+  m_EditorClassIdentifier: 
+  SearchWords:
+  - Word: HALIM
+  - Word: VEYSI
+  - Word: SAHIN
+  - Word: SINAN
+  - Word: IBRAHIM
+  - Word: MAHSUM
+  - Word: ERCAN
+  timeInSeconds: 120
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - H
+    - A
+    - L
+    - I
+    - M
+    - E
+    - K
+    - X
+    - I
+    - P
+  - Size: 10
+    Row:
+    - S
+    - P
+    - E
+    - B
+    - M
+    - R
+    - V
+    - V
+    - I
+    - X
+  - Size: 10
+    Row:
+    - E
+    - S
+    - Y
+    - R
+    - X
+    - M
+    - E
+    - A
+    - O
+    - R
+  - Size: 10
+    Row:
+    - T
+    - M
+    - S
+    - A
+    - D
+    - Y
+    - K
+    - A
+    - S
+    - O
+  - Size: 10
+    Row:
+    - H
+    - A
+    - A
+    - H
+    - S
+    - Z
+    - I
+    - R
+    - E
+    - R
+  - Size: 10
+    Row:
+    - S
+    - P
+    - S
+    - I
+    - N
+    - A
+    - N
+    - Y
+    - Q
+    - E
+  - Size: 10
+    Row:
+    - S
+    - E
+    - A
+    - M
+    - A
+    - H
+    - S
+    - U
+    - M
+    - P
+  - Size: 10
+    Row:
+    - U
+    - N
+    - H
+    - E
+    - S
+    - R
+    - I
+    - O
+    - X
+    - T
+  - Size: 10
+    Row:
+    - L
+    - J
+    - I
+    - O
+    - B
+    - E
+    - R
+    - C
+    - A
+    - N
+  - Size: 10
+    Row:
+    - E
+    - G
+    - N
+    - Z
+    - V
+    - M
+    - M
+    - Q
+    - V
+    - X
