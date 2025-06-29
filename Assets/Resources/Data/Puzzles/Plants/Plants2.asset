@@ -12,56 +12,34 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ec2050d10569f749943763a11f5906e, type: 3}
   m_Name: Plants2
   m_EditorClassIdentifier: 
-  SearchWords: []
+  SearchWords:
+  - Found: 0
+    Word: SAHU
   timeInSeconds: 200
-  Columns: 6
-  Rows: 6
+  Columns: 4
+  Rows: 4
   Board:
-  - Size: 6
+  - Size: 4
     Row:
-    - Z
-    - P
-    - W
+    - X
+    - L
+    - S
     - E
-    - X
-    - W
-  - Size: 6
+  - Size: 4
     Row:
-    - Q
-    - U
-    - X
-    - P
+    - G
+    - V
     - A
-    - H
-  - Size: 6
+    - Z
+  - Size: 4
     Row:
-    - J
-    - C
-    - S
-    - X
-    - W
-    - T
-  - Size: 6
-    Row:
-    - H
-    - R
-    - U
-    - S
-    - W
-    - C
-  - Size: 6
-    Row:
+    - V
     - F
-    - M
-    - W
-    - Y
-    - J
-    - J
-  - Size: 6
+    - H
+    - T
+  - Size: 4
     Row:
-    - J
-    - J
-    - X
+    - H
     - N
-    - I
-    - Q
+    - U
+    - A

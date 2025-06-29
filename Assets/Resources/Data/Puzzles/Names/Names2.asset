@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ec2050d10569f749943763a11f5906e, type: 3}
+  m_Name: Names2
+  m_EditorClassIdentifier: 
+  SearchWords:
+  - Found: 1
+    Word: ERCAN
+  - Found: 1
+    Word: MAHSUM
+  - Found: 1
+    Word: VEYSI
+  - Found: 1
+    Word: IBRAHIM
+  - Found: 1
+    Word: SINAN
+  - Found: 1
+    Word: AVDE
+  - Found: 1
+    Word: SAHIN
+  timeInSeconds: 60
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - I
+    - P
+    - I
+    - V
+    - Q
+    - P
+    - S
+    - D
+    - N
+    - O
+  - Size: 10
+    Row:
+    - C
+    - B
+    - F
+    - F
+    - E
+    - W
+    - M
+    - E
+    - I
+    - I
+  - Size: 10
+    Row:
+    - G
+    - I
+    - R
+    - A
+    - O
+    - Y
+    - U
+    - O
+    - N
+    - X
+  - Size: 10
+    Row:
+    - E
+    - D
+    - V
+    - A
+    - P
+    - Q
+    - S
+    - P
+    - V
+    - B
+  - Size: 10
+    Row:
+    - R
+    - C
+    - T
+    - C
+    - H
+    - Z
+    - H
+    - I
+    - T
+    - C
+  - Size: 10
+    Row:
+    - C
+    - W
+    - P
+    - N
+    - I
+    - I
+    - A
+    - P
+    - B
+    - Q
+  - Size: 10
+    Row:
+    - A
+    - S
+    - O
+    - G
+    - X
+    - O
+    - M
+    - C
+    - S
+    - T
+  - Size: 10
+    Row:
+    - N
+    - I
+    - H
+    - A
+    - S
+    - I
+    - N
+    - A
+    - N
+    - I
+  - Size: 10
+    Row:
+    - H
+    - N
+    - P
+    - V
+    - O
+    - G
+    - J
+    - S
+    - B
+    - J
+  - Size: 10
+    Row:
+    - L
+    - V
+    - X
+    - X
+    - Z
+    - Z
+    - H
+    - S
+    - W
+    - D

@@ -12,32 +12,62 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ec2050d10569f749943763a11f5906e, type: 3}
   m_Name: Plants1
   m_EditorClassIdentifier: 
-  SearchWords: []
+  SearchWords:
+  - Found: 1
+    Word: TEA
+  - Found: 1
+    Word: OAK
+  - Found: 1
+    Word: ELM
   timeInSeconds: 200
-  Columns: 4
-  Rows: 4
+  Columns: 6
+  Rows: 6
   Board:
-  - Size: 4
+  - Size: 6
     Row:
-    - X
-    - L
-    - S
-    - E
-  - Size: 4
-    Row:
-    - G
-    - V
-    - A
     - Z
-  - Size: 4
+    - M
+    - S
+    - D
+    - E
+    - M
+  - Size: 6
     Row:
-    - V
-    - F
+    - O
+    - B
     - H
-    - T
-  - Size: 4
+    - Y
+    - O
+    - L
+  - Size: 6
     Row:
-    - H
-    - N
-    - U
+    - O
     - A
+    - T
+    - E
+    - A
+    - L
+  - Size: 6
+    Row:
+    - K
+    - M
+    - A
+    - L
+    - K
+    - K
+  - Size: 6
+    Row:
+    - B
+    - Q
+    - C
+    - M
+    - M
+    - V
+  - Size: 6
+    Row:
+    - B
+    - R
+    - D
+    - B
+    - Q
+    - O
