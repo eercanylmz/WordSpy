@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ec2050d10569f749943763a11f5906e, type: 3}
+  m_Name: Animal3
+  m_EditorClassIdentifier: 
+  SearchWords:
+  - Found: 1
+    Word: ANT
+  - Found: 1
+    Word: LION
+  - Found: 1
+    Word: BEAR
+  - Found: 1
+    Word: ZEBRA
+  - Found: 1
+    Word: SHEEP
+  timeInSeconds: 60
+  Columns: 6
+  Rows: 6
+  Board:
+  - Size: 6
+    Row:
+    - Z
+    - S
+    - K
+    - N
+    - W
+    - X
+  - Size: 6
+    Row:
+    - E
+    - H
+    - E
+    - K
+    - W
+    - O
+  - Size: 6
+    Row:
+    - B
+    - E
+    - A
+    - R
+    - M
+    - L
+  - Size: 6
+    Row:
+    - R
+    - E
+    - A
+    - N
+    - I
+    - T
+  - Size: 6
+    Row:
+    - A
+    - P
+    - K
+    - O
+    - T
+    - V
+  - Size: 6
+    Row:
+    - S
+    - H
+    - N
+    - F
+    - T
+    - R

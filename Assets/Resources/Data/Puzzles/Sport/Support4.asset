@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ec2050d10569f749943763a11f5906e, type: 3}
+  m_Name: Support4
+  m_EditorClassIdentifier: 
+  SearchWords:
+  - Found: 1
+    Word: YOGA
+  - Found: 1
+    Word: CRICKET
+  - Found: 1
+    Word: "FENC\u0130NG"
+  - Found: 1
+    Word: DIVE
+  - Found: 1
+    Word: YOGA
+  - Found: 1
+    Word: SKI
+  timeInSeconds: 60
+  Columns: 7
+  Rows: 7
+  Board:
+  - Size: 7
+    Row:
+    - P
+    - T
+    - N
+    - F
+    - B
+    - T
+    - S
+  - Size: 7
+    Row:
+    - S
+    - V
+    - B
+    - E
+    - L
+    - O
+    - K
+  - Size: 7
+    Row:
+    - G
+    - T
+    - N
+    - N
+    - B
+    - Y
+    - I
+  - Size: 7
+    Row:
+    - C
+    - R
+    - I
+    - C
+    - K
+    - E
+    - T
+  - Size: 7
+    Row:
+    - S
+    - H
+    - D
+    - I
+    - V
+    - E
+    - X
+  - Size: 7
+    Row:
+    - I
+    - Y
+    - N
+    - N
+    - I
+    - Y
+    - N
+  - Size: 7
+    Row:
+    - A
+    - Y
+    - O
+    - G
+    - A
+    - B
+    - F

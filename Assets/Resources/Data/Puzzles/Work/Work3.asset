@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ec2050d10569f749943763a11f5906e, type: 3}
+  m_Name: Work3
+  m_EditorClassIdentifier: 
+  SearchWords:
+  - Found: 1
+    Word: CLERK
+  - Found: 1
+    Word: SHIFT
+  - Found: 1
+    Word: DUTY
+  - Found: 1
+    Word: TASK
+  - Found: 1
+    Word: LAB
+  - Found: 1
+    Word: JOB
+  timeInSeconds: 200
+  Columns: 6
+  Rows: 6
+  Board:
+  - Size: 6
+    Row:
+    - S
+    - C
+    - J
+    - Z
+    - L
+    - Z
+  - Size: 6
+    Row:
+    - N
+    - H
+    - L
+    - O
+    - A
+    - T
+  - Size: 6
+    Row:
+    - R
+    - U
+    - I
+    - E
+    - B
+    - A
+  - Size: 6
+    Row:
+    - M
+    - R
+    - S
+    - F
+    - R
+    - S
+  - Size: 6
+    Row:
+    - D
+    - U
+    - T
+    - Y
+    - T
+    - K
+  - Size: 6
+    Row:
+    - R
+    - J
+    - M
+    - C
+    - Y
+    - B
