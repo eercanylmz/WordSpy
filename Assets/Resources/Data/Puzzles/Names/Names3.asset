@@ -10,30 +10,32 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2ec2050d10569f749943763a11f5906e, type: 3}
-  m_Name: Names2
+  m_Name: Names3
   m_EditorClassIdentifier: 
   SearchWords:
   - Found: 0
-    Word: OLIVIA
+    Word: MIA
   - Found: 0
-    Word: LIAM
+    Word: ETHAN
   - Found: 0
-    Word: EMMA
+    Word: ISABELLA
   - Found: 0
-    Word: NOAH
+    Word: MASON
   - Found: 0
-    Word: AVA
+    Word: AMELIA
   - Found: 0
-    Word: JAMES
+    Word: LOGAN
   - Found: 0
-    Word: SOPHIA
+    Word: HARPER
   - Found: 0
-    Word: LUCAS
+    Word: OLIVER
+  - Found: 0
+    Word: LEAH
   timeInSeconds: 60
-  Columns: 7
-  Rows: 7
+  Columns: 10
+  Rows: 10
   Board:
-  - Size: 7
+  - Size: 10
     Row:
     - ' '
     - ' '
@@ -42,7 +44,10 @@ MonoBehaviour:
     - ' '
     - ' '
     - ' '
-  - Size: 7
+    - ' '
+    - ' '
+    - ' '
+  - Size: 10
     Row:
     - ' '
     - ' '
@@ -51,7 +56,10 @@ MonoBehaviour:
     - ' '
     - ' '
     - ' '
-  - Size: 7
+    - ' '
+    - ' '
+    - ' '
+  - Size: 10
     Row:
     - ' '
     - ' '
@@ -60,7 +68,10 @@ MonoBehaviour:
     - ' '
     - ' '
     - ' '
-  - Size: 7
+    - ' '
+    - ' '
+    - ' '
+  - Size: 10
     Row:
     - ' '
     - ' '
@@ -69,7 +80,10 @@ MonoBehaviour:
     - ' '
     - ' '
     - ' '
-  - Size: 7
+    - ' '
+    - ' '
+    - ' '
+  - Size: 10
     Row:
     - ' '
     - ' '
@@ -78,7 +92,10 @@ MonoBehaviour:
     - ' '
     - ' '
     - ' '
-  - Size: 7
+    - ' '
+    - ' '
+    - ' '
+  - Size: 10
     Row:
     - ' '
     - ' '
@@ -87,8 +104,50 @@ MonoBehaviour:
     - ' '
     - ' '
     - ' '
-  - Size: 7
+    - ' '
+    - ' '
+    - ' '
+  - Size: 10
     Row:
+    - ' '
+    - ' '
+    - ' '
+    - ' '
+    - ' '
+    - ' '
+    - ' '
+    - ' '
+    - ' '
+    - ' '
+  - Size: 10
+    Row:
+    - ' '
+    - ' '
+    - ' '
+    - ' '
+    - ' '
+    - ' '
+    - ' '
+    - ' '
+    - ' '
+    - ' '
+  - Size: 10
+    Row:
+    - ' '
+    - ' '
+    - ' '
+    - ' '
+    - ' '
+    - ' '
+    - ' '
+    - ' '
+    - ' '
+    - ' '
+  - Size: 10
+    Row:
+    - ' '
+    - ' '
+    - ' '
     - ' '
     - ' '
     - ' '

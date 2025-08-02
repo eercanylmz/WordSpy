@@ -10,123 +10,123 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2ec2050d10569f749943763a11f5906e, type: 3}
-  m_Name: Support3
+  m_Name: "Countr\u0131es3"
   m_EditorClassIdentifier: 
   SearchWords:
   - Found: 1
-    Word: BOXER
+    Word: 'QATAR '
   - Found: 1
-    Word: HOCKEY
+    Word: GERMANY
   - Found: 1
-    Word: DART
+    Word: NIGERIA
   - Found: 1
-    Word: BOW
+    Word: CANADA
   - Found: 1
-    Word: POLO
+    Word: TURKEY
   - Found: 1
-    Word: WRESTLING
+    Word: GREECE
   - Found: 1
-    Word: BOWLING
-  timeInSeconds: 60
+    Word: NEPAL
+  timeInSeconds: 120
   Columns: 9
   Rows: 9
   Board:
   - Size: 9
     Row:
-    - W
-    - V
-    - O
-    - X
-    - X
-    - I
-    - D
-    - L
-    - H
-  - Size: 9
-    Row:
-    - O
-    - R
-    - R
-    - E
-    - G
-    - E
-    - A
-    - I
-    - J
-  - Size: 9
-    Row:
-    - B
-    - K
-    - E
-    - F
-    - K
-    - N
-    - R
-    - A
-    - B
-  - Size: 9
-    Row:
-    - Y
-    - H
-    - X
-    - S
     - Z
-    - P
-    - T
-    - W
-    - O
-  - Size: 9
-    Row:
-    - U
-    - T
-    - O
-    - X
-    - T
-    - O
-    - L
-    - B
-    - W
-  - Size: 9
-    Row:
-    - C
     - Z
-    - B
-    - C
-    - N
-    - L
-    - C
-    - U
-    - L
-  - Size: 9
-    Row:
-    - N
     - D
-    - Y
-    - L
-    - K
-    - O
-    - I
-    - J
-    - I
-  - Size: 9
-    Row:
-    - F
-    - F
-    - S
-    - D
-    - R
     - E
-    - A
-    - N
-    - N
-  - Size: 9
-    Row:
-    - G
     - Q
+    - W
+    - C
+    - H
     - Z
-    - V
-    - Y
-    - Y
-    - Y
-    - B
+  - Size: 9
+    Row:
+    - U
+    - N
     - G
+    - X
+    - K
+    - I
+    - A
+    - H
+    - F
+  - Size: 9
+    Row:
+    - X
+    - N
+    - A
+    - E
+    - P
+    - Y
+    - N
+    - R
+    - T
+  - Size: 9
+    Row:
+    - Q
+    - A
+    - T
+    - A
+    - R
+    - G
+    - A
+    - X
+    - U
+  - Size: 9
+    Row:
+    - N
+    - Y
+    - Z
+    - J
+    - R
+    - M
+    - D
+    - M
+    - R
+  - Size: 9
+    Row:
+    - N
+    - I
+    - G
+    - E
+    - R
+    - I
+    - A
+    - J
+    - K
+  - Size: 9
+    Row:
+    - M
+    - F
+    - E
+    - L
+    - A
+    - P
+    - E
+    - N
+    - E
+  - Size: 9
+    Row:
+    - B
+    - C
+    - X
+    - V
+    - Q
+    - L
+    - U
+    - Z
+    - Y
+  - Size: 9
+    Row:
+    - E
+    - V
+    - Q
+    - B
+    - N
+    - U
+    - V
+    - D
+    - S

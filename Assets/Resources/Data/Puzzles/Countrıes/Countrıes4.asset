@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ec2050d10569f749943763a11f5906e, type: 3}
+  m_Name: "Countr\u0131es4"
+  m_EditorClassIdentifier: 
+  SearchWords:
+  - Found: 0
+    Word: INDIA
+  - Found: 0
+    Word: ALBANIA
+  - Found: 0
+    Word: ECUADOR
+  - Found: 0
+    Word: BELGIUM
+  - Found: 0
+    Word: MOROCCO
+  - Found: 0
+    Word: SERBIA
+  - Found: 0
+    Word: POLAND
+  - Found: 0
+    Word: ANGOLA
+  timeInSeconds: 150
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - G
+    - E
+    - F
+    - B
+    - E
+    - L
+    - G
+    - I
+    - U
+    - M
+  - Size: 10
+    Row:
+    - F
+    - A
+    - I
+    - B
+    - R
+    - E
+    - S
+    - X
+    - O
+    - W
+  - Size: 10
+    Row:
+    - H
+    - X
+    - Y
+    - D
+    - D
+    - B
+    - R
+    - R
+    - U
+    - F
+  - Size: 10
+    Row:
+    - V
+    - G
+    - C
+    - N
+    - A
+    - L
+    - O
+    - G
+    - N
+    - A
+  - Size: 10
+    Row:
+    - O
+    - E
+    - D
+    - A
+    - T
+    - C
+    - L
+    - M
+    - I
+    - I
+  - Size: 10
+    Row:
+    - X
+    - E
+    - T
+    - L
+    - C
+    - R
+    - H
+    - N
+    - Z
+    - D
+  - Size: 10
+    Row:
+    - R
+    - O
+    - Y
+    - O
+    - Q
+    - R
+    - A
+    - C
+    - R
+    - N
+  - Size: 10
+    Row:
+    - R
+    - L
+    - F
+    - P
+    - M
+    - B
+    - P
+    - K
+    - W
+    - I
+  - Size: 10
+    Row:
+    - F
+    - X
+    - T
+    - R
+    - L
+    - A
+    - R
+    - V
+    - H
+    - Y
+  - Size: 10
+    Row:
+    - E
+    - C
+    - U
+    - A
+    - D
+    - O
+    - R
+    - B
+    - G
+    - Q

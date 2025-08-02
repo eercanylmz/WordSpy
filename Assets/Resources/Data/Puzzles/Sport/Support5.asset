@@ -1,0 +1,205 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ec2050d10569f749943763a11f5906e, type: 3}
+  m_Name: Support5
+  m_EditorClassIdentifier: 
+  SearchWords:
+  - Found: 0
+    Word: ARCHERY
+  - Found: 0
+    Word: TABLETENNIS
+  - Found: 0
+    Word: GYMNASTICS
+  - Found: 0
+    Word: KARATE
+  - Found: 0
+    Word: SOCCER
+  - Found: 0
+    Word: BASEBALL
+  - Found: 0
+    Word: VOLLEYBALL
+  - Found: 0
+    Word: SWIMMING
+  - Found: 0
+    Word: BOXING
+  timeInSeconds: 60
+  Columns: 12
+  Rows: 12
+  Board:
+  - Size: 12
+    Row:
+    - A
+    - B
+    - L
+    - R
+    - R
+    - N
+    - R
+    - G
+    - Q
+    - K
+    - O
+    - S
+  - Size: 12
+    Row:
+    - T
+    - A
+    - B
+    - L
+    - E
+    - T
+    - E
+    - N
+    - N
+    - I
+    - S
+    - W
+  - Size: 12
+    Row:
+    - A
+    - S
+    - V
+    - N
+    - C
+    - K
+    - X
+    - I
+    - Q
+    - K
+    - C
+    - I
+  - Size: 12
+    Row:
+    - K
+    - E
+    - O
+    - S
+    - C
+    - Z
+    - T
+    - X
+    - Z
+    - V
+    - I
+    - M
+  - Size: 12
+    Row:
+    - D
+    - B
+    - L
+    - H
+    - O
+    - W
+    - T
+    - O
+    - K
+    - J
+    - T
+    - M
+  - Size: 12
+    Row:
+    - O
+    - A
+    - E
+    - I
+    - S
+    - Y
+    - X
+    - B
+    - A
+    - X
+    - S
+    - I
+  - Size: 12
+    Row:
+    - P
+    - L
+    - Y
+    - H
+    - D
+    - S
+    - U
+    - T
+    - R
+    - B
+    - A
+    - N
+  - Size: 12
+    Row:
+    - N
+    - L
+    - B
+    - V
+    - O
+    - G
+    - H
+    - K
+    - A
+    - T
+    - N
+    - G
+  - Size: 12
+    Row:
+    - A
+    - M
+    - A
+    - F
+    - U
+    - I
+    - J
+    - O
+    - T
+    - M
+    - M
+    - K
+  - Size: 12
+    Row:
+    - X
+    - P
+    - L
+    - I
+    - A
+    - R
+    - C
+    - H
+    - E
+    - R
+    - Y
+    - H
+  - Size: 12
+    Row:
+    - M
+    - Y
+    - L
+    - S
+    - W
+    - I
+    - M
+    - M
+    - I
+    - N
+    - G
+    - E
+  - Size: 12
+    Row:
+    - Q
+    - C
+    - L
+    - R
+    - D
+    - R
+    - M
+    - X
+    - Z
+    - J
+    - H
+    - G

@@ -10,123 +10,123 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2ec2050d10569f749943763a11f5906e, type: 3}
-  m_Name: Animal5
+  m_Name: Hobbies2
   m_EditorClassIdentifier: 
   SearchWords:
   - Found: 0
-    Word: FALCON
+    Word: 'SINGING  '
   - Found: 0
-    Word: JAGUAR
+    Word: DANCING
   - Found: 0
-    Word: OCELOT
+    Word: COOKING
   - Found: 0
-    Word: PANTHER
+    Word: HIKING
   - Found: 0
-    Word: BUFFALO
+    Word: FISHING
   - Found: 0
-    Word: OCTOPUS
+    Word: GARDENING
   - Found: 0
-    Word: DOLPHIN
-  timeInSeconds: 200
+    Word: PAINTING
+  timeInSeconds: 120
   Columns: 9
   Rows: 9
   Board:
   - Size: 9
     Row:
-    - D
-    - O
-    - L
     - P
-    - H
+    - P
+    - A
     - I
     - N
-    - V
     - T
+    - I
+    - N
+    - G
   - Size: 9
     Row:
-    - D
+    - P
+    - G
+    - E
+    - Z
     - L
-    - S
-    - W
-    - Y
-    - Q
-    - U
-    - Y
-    - Y
+    - D
+    - M
+    - F
+    - A
   - Size: 9
     Row:
-    - J
+    - M
+    - Z
+    - M
+    - F
+    - H
     - A
     - G
-    - U
-    - A
-    - R
-    - P
-    - T
-    - D
-  - Size: 9
-    Row:
-    - W
-    - F
-    - Z
-    - F
-    - P
-    - R
-    - A
-    - O
-    - F
-  - Size: 9
-    Row:
-    - F
-    - F
-    - J
-    - L
-    - N
-    - O
-    - N
-    - L
-    - A
-  - Size: 9
-    Row:
-    - Q
-    - U
-    - X
-    - O
-    - E
-    - L
-    - T
-    - E
-    - L
-  - Size: 9
-    Row:
-    - A
-    - B
-    - O
     - I
-    - K
-    - O
-    - H
-    - C
-    - C
+    - R
   - Size: 9
     Row:
+    - C
+    - O
+    - O
+    - K
+    - I
+    - N
+    - G
+    - S
+    - D
+  - Size: 9
+    Row:
+    - S
+    - P
+    - V
+    - Z
+    - I
+    - C
+    - N
     - H
-    - W
-    - W
-    - T
+    - E
+  - Size: 9
+    Row:
+    - I
     - D
     - P
-    - E
-    - O
-    - O
+    - K
+    - G
+    - I
+    - I
+    - I
+    - N
   - Size: 9
     Row:
-    - D
+    - U
+    - T
+    - O
+    - N
     - W
+    - N
+    - K
+    - N
+    - I
+  - Size: 9
+    Row:
     - V
-    - Q
+    - O
+    - B
     - F
+    - U
+    - G
+    - I
+    - G
+    - N
+  - Size: 9
+    Row:
+    - C
+    - B
+    - X
+    - F
+    - L
+    - I
     - H
     - R
-    - S
-    - N
+    - G

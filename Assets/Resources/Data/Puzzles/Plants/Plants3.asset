@@ -10,23 +10,23 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2ec2050d10569f749943763a11f5906e, type: 3}
-  m_Name: Plants2
+  m_Name: Plants3
   m_EditorClassIdentifier: 
   SearchWords:
   - Found: 0
-    Word: ROSE
+    Word: OAK
   - Found: 0
-    Word: TULIP
+    Word: "P\u0130NE"
   - Found: 0
-    Word: SUNFLOWER
+    Word: FERN
   - Found: 0
-    Word: DAISY
+    Word: BAMBOO
   - Found: 0
-    Word: ORCHID
+    Word: CACTUS
   - Found: 0
-    Word: LAVENDER
+    Word: ALOE
   - Found: 0
-    Word: MAPLE
+    Word: BASIL
   timeInSeconds: 200
   Columns: 4
   Rows: 4

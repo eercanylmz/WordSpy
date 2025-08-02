@@ -10,23 +10,29 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2ec2050d10569f749943763a11f5906e, type: 3}
-  m_Name: Plants2
+  m_Name: Plants5
   m_EditorClassIdentifier: 
   SearchWords:
   - Found: 0
-    Word: ROSE
+    Word: WILLOW
   - Found: 0
-    Word: TULIP
+    Word: HOLLY
   - Found: 0
-    Word: SUNFLOWER
+    Word: HYDRANGEA
   - Found: 0
-    Word: DAISY
+    Word: MOSS
   - Found: 0
-    Word: ORCHID
+    Word: POPPY
   - Found: 0
-    Word: LAVENDER
+    Word: PEONY
   - Found: 0
-    Word: MAPLE
+    Word: JASMINE
+  - Found: 0
+    Word: MAGNOLIA
+  - Found: 0
+    Word: MARIGOLD
+  - Found: 0
+    Word: CAMELLIA
   timeInSeconds: 200
   Columns: 4
   Rows: 4

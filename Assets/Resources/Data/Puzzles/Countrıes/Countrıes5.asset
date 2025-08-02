@@ -1,0 +1,182 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ec2050d10569f749943763a11f5906e, type: 3}
+  m_Name: "Countr\u0131es5"
+  m_EditorClassIdentifier: 
+  SearchWords:
+  - Found: 0
+    Word: DENMARK
+  - Found: 0
+    Word: AUSTRIA
+  - Found: 0
+    Word: ALGERIA
+  - Found: 0
+    Word: CROATIA
+  - Found: 0
+    Word: FINLAND
+  - Found: 0
+    Word: BAHAMAS
+  - Found: 0
+    Word: TUNISIA
+  - Found: 0
+    Word: BOLIVIA
+  - Found: 0
+    Word: SWEDEN
+  - Found: 0
+    Word: PANAMA
+  timeInSeconds: 200
+  Columns: 11
+  Rows: 11
+  Board:
+  - Size: 11
+    Row:
+    - M
+    - I
+    - O
+    - P
+    - A
+    - N
+    - A
+    - M
+    - A
+    - O
+    - B
+  - Size: 11
+    Row:
+    - K
+    - C
+    - P
+    - B
+    - B
+    - O
+    - L
+    - I
+    - V
+    - I
+    - A
+  - Size: 11
+    Row:
+    - F
+    - G
+    - H
+    - F
+    - M
+    - K
+    - V
+    - K
+    - S
+    - Y
+    - H
+  - Size: 11
+    Row:
+    - S
+    - A
+    - I
+    - S
+    - I
+    - N
+    - U
+    - T
+    - W
+    - I
+    - A
+  - Size: 11
+    Row:
+    - I
+    - K
+    - R
+    - A
+    - M
+    - N
+    - E
+    - D
+    - E
+    - V
+    - M
+  - Size: 11
+    Row:
+    - G
+    - F
+    - H
+    - U
+    - L
+    - G
+    - L
+    - I
+    - D
+    - O
+    - A
+  - Size: 11
+    Row:
+    - L
+    - K
+    - X
+    - S
+    - F
+    - G
+    - K
+    - A
+    - E
+    - Z
+    - S
+  - Size: 11
+    Row:
+    - P
+    - A
+    - T
+    - T
+    - M
+    - G
+    - E
+    - J
+    - N
+    - Q
+    - B
+  - Size: 11
+    Row:
+    - M
+    - Y
+    - M
+    - R
+    - Z
+    - A
+    - A
+    - R
+    - D
+    - D
+    - H
+  - Size: 11
+    Row:
+    - Y
+    - J
+    - C
+    - I
+    - B
+    - S
+    - A
+    - N
+    - I
+    - K
+    - J
+  - Size: 11
+    Row:
+    - C
+    - R
+    - O
+    - A
+    - T
+    - I
+    - A
+    - C
+    - Z
+    - A
+    - X
