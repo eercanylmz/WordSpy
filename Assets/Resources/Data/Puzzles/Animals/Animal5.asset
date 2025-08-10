@@ -27,7 +27,7 @@ MonoBehaviour:
     Word: OCTOPUS
   - Found: 0
     Word: DOLPHIN
-  timeInSeconds: 200
+  timeInSeconds: 210
   Columns: 9
   Rows: 9
   Board:

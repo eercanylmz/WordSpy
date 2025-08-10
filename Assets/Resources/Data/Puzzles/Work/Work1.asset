@@ -19,7 +19,7 @@ MonoBehaviour:
     Word: HIRE
   - Found: 1
     Word: EARN
-  timeInSeconds: 200
+  timeInSeconds: 60
   Columns: 4
   Rows: 4
   Board:

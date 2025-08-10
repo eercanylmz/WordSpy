@@ -21,7 +21,7 @@ MonoBehaviour:
     Word: RICE
   - Found: 1
     Word: CAKE
-  timeInSeconds: 200
+  timeInSeconds: 60
   Columns: 5
   Rows: 5
   Board:

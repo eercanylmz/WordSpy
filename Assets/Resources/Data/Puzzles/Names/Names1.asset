@@ -14,45 +14,45 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SearchWords:
   - Found: 0
-    Word: SEDEF
+    Word: JOHN
   - Found: 0
-    Word: ERCAN
+    Word: ZOEY
   timeInSeconds: 60
   Columns: 5
   Rows: 5
   Board:
   - Size: 5
     Row:
-    - S
-    - H
-    - Z
-    - S
+    - G
     - U
+    - J
+    - L
+    - Z
   - Size: 5
     Row:
+    - F
+    - Z
+    - O
     - E
-    - R
-    - C
-    - A
-    - N
+    - Y
   - Size: 5
     Row:
     - D
-    - F
-    - Y
-    - M
-    - U
-  - Size: 5
-    Row:
-    - E
     - N
-    - Q
-    - Q
-    - G
-  - Size: 5
-    Row:
-    - F
+    - H
+    - T
     - L
+  - Size: 5
+    Row:
+    - F
+    - K
     - N
-    - Z
-    - R
+    - N
+    - E
+  - Size: 5
+    Row:
+    - H
+    - I
+    - W
+    - M
+    - D

@@ -31,7 +31,7 @@ MonoBehaviour:
     Word: MARTIALARTS
   - Found: 0
     Word: SINGING
-  timeInSeconds: 200
+  timeInSeconds: 250
   Columns: 11
   Rows: 11
   Board:
@@ -156,8 +156,8 @@ MonoBehaviour:
     Row:
     - I
     - R
-    - Q
     - S
+    - Q
     - I
     - H
     - C

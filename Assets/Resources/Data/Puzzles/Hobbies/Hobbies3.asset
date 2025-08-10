@@ -31,7 +31,7 @@ MonoBehaviour:
     Word: ARCHERY
   - Found: 0
     Word: FISHING
-  timeInSeconds: 250
+  timeInSeconds: 200
   Columns: 10
   Rows: 10
   Board:

@@ -25,7 +25,7 @@ MonoBehaviour:
     Word: PIZZA
   - Found: 1
     Word: MINCE
-  timeInSeconds: 200
+  timeInSeconds: 120
   Columns: 6
   Rows: 7
   Board:

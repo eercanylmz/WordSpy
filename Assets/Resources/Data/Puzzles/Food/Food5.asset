@@ -29,7 +29,7 @@ MonoBehaviour:
     Word: RAVIOLINI
   - Found: 1
     Word: WATERMELON
-  timeInSeconds: 800
+  timeInSeconds: 210
   Columns: 10
   Rows: 10
   Board:

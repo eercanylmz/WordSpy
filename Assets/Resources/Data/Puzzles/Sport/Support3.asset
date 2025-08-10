@@ -27,7 +27,7 @@ MonoBehaviour:
     Word: WRESTLING
   - Found: 1
     Word: BOWLING
-  timeInSeconds: 60
+  timeInSeconds: 150
   Columns: 9
   Rows: 9
   Board:

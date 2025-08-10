@@ -27,7 +27,7 @@ MonoBehaviour:
     Word: TEAM
   - Found: 1
     Word: RESUME
-  timeInSeconds: 200
+  timeInSeconds: 180
   Columns: 8
   Rows: 8
   Board:

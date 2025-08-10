@@ -23,7 +23,7 @@ MonoBehaviour:
     Word: CHEETAH
   - Found: 1
     Word: PENGUIN
-  timeInSeconds: 200
+  timeInSeconds: 180
   Columns: 8
   Rows: 8
   Board:

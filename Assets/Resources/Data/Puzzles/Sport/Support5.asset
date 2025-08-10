@@ -31,7 +31,7 @@ MonoBehaviour:
     Word: SWIMMING
   - Found: 0
     Word: BOXING
-  timeInSeconds: 60
+  timeInSeconds: 210
   Columns: 12
   Rows: 12
   Board:
@@ -67,7 +67,7 @@ MonoBehaviour:
     Row:
     - A
     - S
-    - V
+    - L
     - N
     - C
     - K
@@ -81,7 +81,7 @@ MonoBehaviour:
     Row:
     - K
     - E
-    - O
+    - L
     - S
     - C
     - Z
@@ -95,7 +95,7 @@ MonoBehaviour:
     Row:
     - D
     - B
-    - L
+    - A
     - H
     - O
     - W
@@ -109,7 +109,7 @@ MonoBehaviour:
     Row:
     - O
     - A
-    - E
+    - B
     - I
     - S
     - Y
@@ -137,7 +137,7 @@ MonoBehaviour:
     Row:
     - N
     - L
-    - B
+    - E
     - V
     - O
     - G
@@ -151,7 +151,7 @@ MonoBehaviour:
     Row:
     - A
     - M
-    - A
+    - L
     - F
     - U
     - I
@@ -179,21 +179,21 @@ MonoBehaviour:
     Row:
     - M
     - Y
-    - L
-    - S
-    - W
-    - I
-    - M
-    - M
-    - I
+    - O
+    - O
     - N
+    - E
+    - B
+    - E
+    - N
+    - U
     - G
     - E
   - Size: 12
     Row:
     - Q
     - C
-    - L
+    - V
     - R
     - D
     - R

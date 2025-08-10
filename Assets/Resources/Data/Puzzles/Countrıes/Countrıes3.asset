@@ -27,7 +27,7 @@ MonoBehaviour:
     Word: GREECE
   - Found: 1
     Word: NEPAL
-  timeInSeconds: 120
+  timeInSeconds: 150
   Columns: 9
   Rows: 9
   Board:

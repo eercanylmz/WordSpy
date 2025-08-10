@@ -23,7 +23,7 @@ MonoBehaviour:
     Word: ZEBRA
   - Found: 1
     Word: SHEEP
-  timeInSeconds: 60
+  timeInSeconds: 150
   Columns: 6
   Rows: 6
   Board:

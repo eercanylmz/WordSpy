@@ -23,7 +23,7 @@ MonoBehaviour:
     Word: TRADE
   - Found: 1
     Word: LABOR
-  timeInSeconds: 200
+  timeInSeconds: 120
   Columns: 6
   Rows: 6
   Board:

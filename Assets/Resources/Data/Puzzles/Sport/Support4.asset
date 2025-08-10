@@ -31,7 +31,7 @@ MonoBehaviour:
     Word: WRESTLING
   - Found: 1
     Word: TAEKWONDO
-  timeInSeconds: 60
+  timeInSeconds: 180
   Columns: 11
   Rows: 11
   Board:
@@ -94,7 +94,7 @@ MonoBehaviour:
     - E
     - K
     - W
-    - A
+    - O
     - N
     - D
     - O
@@ -102,7 +102,7 @@ MonoBehaviour:
     - A
   - Size: 11
     Row:
-    - I
+    - L
     - S
     - K
     - I
@@ -115,7 +115,7 @@ MonoBehaviour:
     - B
   - Size: 11
     Row:
-    - N
+    - I
     - N
     - O
     - U
@@ -128,7 +128,7 @@ MonoBehaviour:
     - A
   - Size: 11
     Row:
-    - G
+    - N
     - N
     - F
     - C
@@ -141,7 +141,7 @@ MonoBehaviour:
     - T
   - Size: 11
     Row:
-    - E
+    - G
     - Q
     - J
     - X

@@ -27,7 +27,7 @@ MonoBehaviour:
     Word: TACO
   - Found: 1
     Word: TORTILLA
-  timeInSeconds: 120
+  timeInSeconds: 150
   Columns: 8
   Rows: 8
   Board:

@@ -27,31 +27,106 @@ MonoBehaviour:
     Word: LAVENDER
   - Found: 0
     Word: MAPLE
-  timeInSeconds: 200
-  Columns: 4
-  Rows: 4
+  timeInSeconds: 120
+  Columns: 9
+  Rows: 9
   Board:
-  - Size: 4
+  - Size: 9
     Row:
-    - ' '
-    - ' '
-    - ' '
-    - ' '
-  - Size: 4
+    - D
+    - N
+    - O
+    - T
+    - M
+    - A
+    - P
+    - L
+    - E
+  - Size: 9
     Row:
-    - ' '
-    - ' '
-    - ' '
-    - ' '
-  - Size: 4
+    - R
+    - B
+    - C
+    - B
+    - Y
+    - S
+    - I
+    - A
+    - D
+  - Size: 9
     Row:
-    - ' '
-    - ' '
-    - ' '
-    - ' '
-  - Size: 4
+    - O
+    - T
+    - H
+    - A
+    - A
+    - W
+    - F
+    - V
+    - Y
+  - Size: 9
     Row:
-    - ' '
-    - ' '
-    - ' '
-    - ' '
+    - S
+    - U
+    - N
+    - F
+    - L
+    - O
+    - W
+    - E
+    - R
+  - Size: 9
+    Row:
+    - E
+    - L
+    - W
+    - C
+    - C
+    - R
+    - H
+    - N
+    - Z
+  - Size: 9
+    Row:
+    - R
+    - I
+    - W
+    - Q
+    - E
+    - C
+    - E
+    - D
+    - T
+  - Size: 9
+    Row:
+    - D
+    - B
+    - O
+    - G
+    - A
+    - H
+    - U
+    - E
+    - E
+  - Size: 9
+    Row:
+    - H
+    - L
+    - B
+    - K
+    - X
+    - I
+    - Z
+    - R
+    - F
+  - Size: 9
+    Row:
+    - U
+    - O
+    - K
+    - C
+    - D
+    - D
+    - S
+    - Y
+    - D

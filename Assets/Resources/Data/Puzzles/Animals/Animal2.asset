@@ -21,7 +21,7 @@ MonoBehaviour:
     Word: FISH
   - Found: 1
     Word: MOUSE
-  timeInSeconds: 60
+  timeInSeconds: 120
   Columns: 5
   Rows: 5
   Board:

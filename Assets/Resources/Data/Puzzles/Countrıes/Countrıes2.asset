@@ -25,13 +25,13 @@ MonoBehaviour:
     Word: JAMAICA
   - Found: 1
     Word: GEORGIA
-  timeInSeconds: 60
+  timeInSeconds: 120
   Columns: 8
   Rows: 8
   Board:
   - Size: 8
     Row:
-    - S
+    - J
     - I
     - A
     - U
@@ -41,7 +41,7 @@ MonoBehaviour:
     - G
   - Size: 8
     Row:
-    - L
+    - A
     - A
     - Z
     - R
@@ -51,7 +51,7 @@ MonoBehaviour:
     - E
   - Size: 8
     Row:
-    - Q
+    - M
     - K
     - E
     - U
@@ -61,7 +61,7 @@ MonoBehaviour:
     - O
   - Size: 8
     Row:
-    - U
+    - A
     - S
     - F
     - G
@@ -71,7 +71,7 @@ MonoBehaviour:
     - R
   - Size: 8
     Row:
-    - S
+    - I
     - X
     - U
     - U
@@ -81,7 +81,7 @@ MonoBehaviour:
     - G
   - Size: 8
     Row:
-    - J
+    - C
     - A
     - M
     - A
@@ -91,9 +91,9 @@ MonoBehaviour:
     - I
   - Size: 8
     Row:
-    - Z
-    - C
-    - G
+    - A
+    - E
+    - N
     - Y
     - E
     - L

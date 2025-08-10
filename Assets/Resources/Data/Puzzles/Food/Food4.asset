@@ -31,7 +31,7 @@ MonoBehaviour:
     Word: GARLIC
   - Found: 1
     Word: NOODLES
-  timeInSeconds: 120
+  timeInSeconds: 180
   Columns: 9
   Rows: 9
   Board:

@@ -29,7 +29,7 @@ MonoBehaviour:
     Word: CLIENT
   - Found: 1
     Word: SALARY
-  timeInSeconds: 200
+  timeInSeconds: 210
   Columns: 9
   Rows: 9
   Board:
@@ -129,6 +129,6 @@ MonoBehaviour:
     - O
     - R
     - T
-    - L
+    - T
     - S
     - T

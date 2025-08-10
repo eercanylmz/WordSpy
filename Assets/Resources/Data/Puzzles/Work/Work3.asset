@@ -25,7 +25,7 @@ MonoBehaviour:
     Word: LAB
   - Found: 1
     Word: JOB
-  timeInSeconds: 200
+  timeInSeconds: 150
   Columns: 6
   Rows: 6
   Board:

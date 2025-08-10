@@ -26,73 +26,71 @@ MonoBehaviour:
   - Found: 0
     Word: JAMES
   - Found: 0
-    Word: SOPHIA
-  - Found: 0
     Word: LUCAS
-  timeInSeconds: 60
+  timeInSeconds: 120
   Columns: 7
   Rows: 7
   Board:
   - Size: 7
     Row:
-    - ' '
-    - ' '
-    - ' '
-    - ' '
-    - ' '
-    - ' '
-    - ' '
+    - D
+    - L
+    - I
+    - A
+    - M
+    - I
+    - O
   - Size: 7
     Row:
-    - ' '
-    - ' '
-    - ' '
-    - ' '
-    - ' '
-    - ' '
-    - ' '
+    - H
+    - U
+    - H
+    - V
+    - N
+    - E
+    - Y
   - Size: 7
     Row:
-    - ' '
-    - ' '
-    - ' '
-    - ' '
-    - ' '
-    - ' '
-    - ' '
+    - L
+    - C
+    - S
+    - A
+    - Y
+    - M
+    - Y
   - Size: 7
     Row:
-    - ' '
-    - ' '
-    - ' '
-    - ' '
-    - ' '
-    - ' '
-    - ' '
+    - H
+    - A
+    - F
+    - E
+    - O
+    - M
+    - M
   - Size: 7
     Row:
-    - ' '
-    - ' '
-    - ' '
-    - ' '
-    - ' '
-    - ' '
-    - ' '
+    - A
+    - S
+    - O
+    - X
+    - M
+    - A
+    - K
   - Size: 7
     Row:
-    - ' '
-    - ' '
-    - ' '
-    - ' '
-    - ' '
-    - ' '
-    - ' '
+    - O
+    - L
+    - I
+    - V
+    - I
+    - A
+    - Y
   - Size: 7
     Row:
-    - ' '
-    - ' '
-    - ' '
-    - ' '
-    - ' '
-    - ' '
-    - ' '
+    - N
+    - B
+    - Z
+    - L
+    - W
+    - L
+    - J

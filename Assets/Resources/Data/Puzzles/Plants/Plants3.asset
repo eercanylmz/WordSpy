@@ -16,7 +16,7 @@ MonoBehaviour:
   - Found: 0
     Word: OAK
   - Found: 0
-    Word: "P\u0130NE"
+    Word: PINE
   - Found: 0
     Word: FERN
   - Found: 0
@@ -27,31 +27,70 @@ MonoBehaviour:
     Word: ALOE
   - Found: 0
     Word: BASIL
-  timeInSeconds: 200
-  Columns: 4
-  Rows: 4
+  timeInSeconds: 150
+  Columns: 7
+  Rows: 7
   Board:
-  - Size: 4
+  - Size: 7
     Row:
-    - ' '
-    - ' '
-    - ' '
-    - ' '
-  - Size: 4
+    - W
+    - C
+    - A
+    - C
+    - T
+    - U
+    - S
+  - Size: 7
     Row:
-    - ' '
-    - ' '
-    - ' '
-    - ' '
-  - Size: 4
+    - S
+    - Q
+    - L
+    - B
+    - H
+    - R
+    - U
+  - Size: 7
     Row:
-    - ' '
-    - ' '
-    - ' '
-    - ' '
-  - Size: 4
+    - Q
+    - B
+    - O
+    - A
+    - K
+    - P
+    - F
+  - Size: 7
     Row:
-    - ' '
-    - ' '
-    - ' '
-    - ' '
+    - F
+    - S
+    - E
+    - M
+    - Q
+    - F
+    - P
+  - Size: 7
+    Row:
+    - Z
+    - S
+    - B
+    - B
+    - Z
+    - E
+    - I
+  - Size: 7
+    Row:
+    - R
+    - I
+    - E
+    - O
+    - I
+    - R
+    - N
+  - Size: 7
+    Row:
+    - F
+    - L
+    - X
+    - O
+    - O
+    - N
+    - E

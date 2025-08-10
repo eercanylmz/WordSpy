@@ -14,8 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SearchWords:
   - Found: 0
-    Word: 'SINGING  '
-  - Found: 0
     Word: DANCING
   - Found: 0
     Word: COOKING

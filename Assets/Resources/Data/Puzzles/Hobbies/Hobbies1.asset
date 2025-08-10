@@ -21,7 +21,7 @@ MonoBehaviour:
     Word: READ
   - Found: 0
     Word: DRAW
-  timeInSeconds: 120
+  timeInSeconds: 60
   Columns: 5
   Rows: 5
   Board:
