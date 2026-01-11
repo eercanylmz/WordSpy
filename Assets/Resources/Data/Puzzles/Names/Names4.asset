@@ -33,7 +33,7 @@ MonoBehaviour:
     Word: JACK
   - Found: 0
     Word: NATHAN
-  timeInSeconds: 60
+  timeInSeconds: 180
   Columns: 10
   Rows: 10
   Board:
@@ -106,7 +106,7 @@ MonoBehaviour:
     - O
     - M
     - L
-    - A
+    - H
     - P
     - E
   - Size: 10
@@ -118,7 +118,7 @@ MonoBehaviour:
     - J
     - K
     - I
-    - N
+    - A
     - S
     - P
   - Size: 10

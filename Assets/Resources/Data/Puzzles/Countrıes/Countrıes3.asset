@@ -14,8 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SearchWords:
   - Found: 1
-    Word: 'QATAR '
-  - Found: 1
     Word: GERMANY
   - Found: 1
     Word: NIGERIA
@@ -66,8 +64,8 @@ MonoBehaviour:
     - T
   - Size: 9
     Row:
-    - Q
-    - A
+    - N
+    - E
     - T
     - A
     - R

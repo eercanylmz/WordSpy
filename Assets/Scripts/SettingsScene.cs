@@ -8,7 +8,7 @@ public class SettingsScene : MonoBehaviour
 
    public void ClearGameData()
     {
-        DataSaver .clearGameData (levelData );
+        DataSaver.clearGameData (levelData );
 
     }
 }

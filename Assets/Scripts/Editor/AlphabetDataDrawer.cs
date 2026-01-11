@@ -30,7 +30,7 @@ public class AlphabetDataDrawer : Editor
         AlphabetNormalList.DoLayoutList();
         AlphabetHighlightedList.DoLayoutList();
         AlphabetWrongList.DoLayoutList();
-        serializedObject .ApplyModifiedProperties();
+        serializedObject.ApplyModifiedProperties();
     }
 
     private void InitializeReordableList(ref ReorderableList list, string propertyName, string listLabel)
@@ -55,8 +55,8 @@ public class AlphabetDataDrawer : Editor
                 element.FindPropertyRelative("letter"), GUIContent.none);
 
             EditorGUI.PropertyField(
-                new Rect(rect.x+70,rect.y,rect.width -60-30,EditorGUIUtility.singleLineHeight),
-                element.FindPropertyRelative("image"),GUIContent.none);
+                new Rect(rect.x + 70, rect.y, rect.width - 60 - 30, EditorGUIUtility.singleLineHeight),
+                element.FindPropertyRelative("image"), GUIContent.none);
         };
     }
 }

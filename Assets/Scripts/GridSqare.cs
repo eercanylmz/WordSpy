@@ -49,7 +49,7 @@ public class GridSqare : MonoBehaviour
         GameEvents.OnEnableSquareSelection -= OnEnableSquareSelection;
         GameEvents.OnDisableSquareSelection -= OnDisableSquareSelection;
         GameEvents.OnSelectSquare -= SelectSquare;
-        GameEvents.OnCorrectWord -= CorrectWord;
+        GameEvents.OnCorrectWord -= CorrectWord; 
     }
     private void CorrectWord(string word, List<int> squareIndexes)
     {

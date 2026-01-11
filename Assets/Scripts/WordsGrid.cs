@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.ComponentModel;
 using UnityEngine;
 
 public class WordsGrid : MonoBehaviour
@@ -74,7 +75,7 @@ public class WordsGrid : MonoBehaviour
         var midHeightPosition = ((currentGameData.SelectedBoardData.Rows - 1) * squareSize.y / 2) * 0.01f;
 
         startPosition.x = -midWidthPosition;
-        startPosition.y += midHeightPosition;
+        startPosition.y += midHeightPosition; 
 
         return startPosition;
     }
@@ -84,7 +85,8 @@ public class WordsGrid : MonoBehaviour
         if (currentGameData == null || currentGameData.SelectedBoardData == null)
         {
             Debug.LogError("GameData veya SelectedBoardData eksik.");
-            return;
+            return;//geriye deðer döndürme
+            
         }
 
         var squareScale = GetSquareScale(new Vector3(1.5f, 1.5f, 0.1f));
@@ -94,11 +96,11 @@ public class WordsGrid : MonoBehaviour
             foreach (var squareLetter in squares.Row)
             {
                 var normalLetterData = alphabetData.AlphabetNormal.Find(data => data.letter == squareLetter);
-                var selectedLetterData = alphabetData.AlphabetHighligted.Find(data => data.letter == squareLetter);
+                var selectedLetterData = alphabetData.AlphabetHighligted.Find(data => data.letter == squareLetter); 
                 var correctLetterData = alphabetData.AlphabetWrong.Find(data => data.letter == squareLetter);
 
                 if (normalLetterData == null || selectedLetterData?.image == null)
-                {
+                { 
                     Debug.LogError($"Eksik harf verisi: '{squareLetter}' harfi bulunamadý.");
 #if UNITY_EDITOR
                     if (UnityEditor.EditorApplication.isPlaying)
@@ -109,7 +111,7 @@ public class WordsGrid : MonoBehaviour
                     return;
                 }
 
-                var square = Instantiate(gridSquarePrefab);
+                var square = Instantiate(gridSquarePrefab); 
                 square.GetComponent<GridSqare>().SetSprite(normalLetterData, correctLetterData, selectedLetterData);
                 square.transform.SetParent(this.transform);
                 square.transform.position = Vector3.zero;
@@ -128,7 +130,7 @@ public class WordsGrid : MonoBehaviour
 
         while (ShouldScaleDown(finalScale))
         {
-            finalScale.x -= adjustment;
+           finalScale.x -= adjustment;
             finalScale.y -= adjustment;
 
             if (finalScale.x <= 0 || finalScale.y <= 0)
